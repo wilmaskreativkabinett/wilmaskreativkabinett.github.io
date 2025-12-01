@@ -91,8 +91,8 @@ Um Ihr Widerrufsrecht auszuüben, müssen Sie uns eine eindeutige
 Erklärung über Ihren Entschluss zum Widerruf zukommen lassen (Brief oder
 E-Mail). Diese Erklärung muss folgende Angaben enthalten:
 
--   Name (ggf. Firmenname)\
--   Anschrift\
+-   Name (ggf. Firmenname)
+-   Anschrift
 -   Telefonnummer, Faxnummer und E-Mail (soweit vorhanden)
 
 Nach Eingang Ihres Widerrufs erhalten Sie eine Bestätigung per E-Mail.\
@@ -161,7 +161,8 @@ die Kosten des erfolglosen Versands. Dies gilt nicht, wenn:
 ### 5.3
 
 Die Lieferung erfolgt innerhalb der in der Produktbeschreibung
-angegebenen Zeit nach Zahlungseingang.\
+angegebenen Zeit nach Zahlungseingang.
+
 Lieferfristen:
 
 -   bei Vorkasse: Beginn am Tag nach Zahlungsanweisung
@@ -178,8 +179,8 @@ haushaltsüblichen Mengen und nur an Endverbraucher.
 
 Zahlungsarten:
 
--   PayPal\
--   Banküberweisung\
+-   PayPal
+-   Banküberweisung
 -   Barzahlung bei Abholung
 
 PayPal: Zahlung direkt über Ihr PayPal-Konto. Versand erfolgt nach
