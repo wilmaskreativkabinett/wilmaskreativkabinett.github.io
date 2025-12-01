@@ -1,6 +1,3 @@
-# wilmaskreativkabinett.github.io
-
-
 # AGB's
 
 ## Geltungsbereich
