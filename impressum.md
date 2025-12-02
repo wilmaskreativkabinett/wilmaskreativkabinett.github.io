@@ -1,6 +1,11 @@
+---
+title: Impressum
+layout: template
+filename: impressum.md
+--- 
 # Impressum
 
-[Der Inhaber dieser Seiten]{.underline}
+<ins>Der Inhaber dieser Seiten</ins>
 
 Wilma van der Pütten
 
