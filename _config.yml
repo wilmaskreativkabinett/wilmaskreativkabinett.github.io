@@ -6,10 +6,10 @@ plugins:
 
 navigation:
   - title: Start
-    url: /index.md
+    url: ./index.md
   - title: AGB
-    url: /agb.md
+    url: ./agb.md
   - title: Impressum
-    url: /impressum.md
+    url: ./impressum.md
   - title: Datenschutz
-    url: /datenschutz.md
+    url: ./dataprivacy.md
