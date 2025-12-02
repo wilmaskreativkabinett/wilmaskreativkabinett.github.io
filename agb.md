@@ -1,6 +1,5 @@
 ---
 title: AGBs
-layout: template
 filename: agb.md
 --- 
 # AGB's

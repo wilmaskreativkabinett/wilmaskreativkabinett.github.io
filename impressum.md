@@ -1,6 +1,5 @@
 ---
 title: Impressum
-layout: template
 filename: impressum.md
 --- 
 # Impressum

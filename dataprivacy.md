@@ -1,6 +1,5 @@
 ---
 title: Datenschutzerklärung
-layout: template
 filename: dataprivacy.md
 --- 
 
