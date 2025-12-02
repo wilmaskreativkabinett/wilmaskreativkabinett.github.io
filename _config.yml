@@ -1,4 +1,15 @@
 # theme: cayman
 remote_theme: pages-themes/cayman@v0.2.0
+description: Rechtstexte & Informationen
 plugins:
 - jekyll-remote-theme
+
+navigation:
+  - title: Start
+    url: /index.md
+  - title: AGB
+    url: /agb.md
+  - title: Impressum
+    url: /impressum.md
+  - title: Datenschutz
+    url: /datenschutz.md
