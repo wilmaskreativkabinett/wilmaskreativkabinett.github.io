@@ -5,7 +5,7 @@ filename: dataprivacy.md
 
 # Datenschutzerklärung
 
-## 1 Information über die Erhebung personenbezogener Daten und Kontaktdaten des Verantwortlichen
+## 1. Information über die Erhebung personenbezogener Daten und Kontaktdaten des Verantwortlichen
 
 ### 1.1 
 Im Folgenden informieren wir Sie über den Umgang mit Ihren
@@ -21,7 +21,7 @@ Daten Verantwortliche ist diejenige natürliche oder juristische Person,
 die allein oder gemeinsam mit anderen über die Zwecke und Mittel der
 Verarbeitung von personenbezogenen Daten entscheidet.
 
-## 2 Datenerfassung beim Besuch unserer Website
+## 2. Datenerfassung beim Besuch unserer Website
 
 Bei der bloß informatorischen Nutzung unserer Website, erheben wir nur
 solche Daten, die Ihr Browser an unseren Server übermittelt (sog.
@@ -50,7 +50,7 @@ Verwendung der Daten findet nicht statt. Wir behalten uns allerdings
 vor, die Server-Logfiles nachträglich zu überprüfen, sollten konkrete
 Anhaltspunkte auf eine rechtswidrige Nutzung hinweisen.
 
-## 3 Kontaktaufnahme
+## 3. Kontaktaufnahme
 
 Im Rahmen der Kontaktaufnahme mit uns (z.B. per E-Mail) werden
 personenbezogene Daten erhoben. Welche Daten im Falle der Nutzung eines
@@ -67,7 +67,7 @@ gelöscht. Dies ist der Fall, wenn sich aus den Umständen entnehmen
 lässt, dass der betroffene Sachverhalt abschließend geklärt ist und
 sofern keine gesetzlichen Aufbewahrungspflichten entgegenstehen.
 
-## 4 Rechte des Betroffenen
+## 4. Rechte des Betroffenen
 
 ### 4.1 
 Das geltende Datenschutzrecht gewährt Ihnen gegenüber dem
@@ -115,7 +115,7 @@ OBEN BESCHRIEBEN AUSÜBEN.
 MACHEN SIE VON IHREM WIDERSPRUCHSRECHT GEBRAUCH, BEENDEN WIR DIE
 VERARBEITUNG DER BETROFFENEN DATEN ZU DIREKTWERBEZWECKEN.
 
-## 5 Dauer der Speicherung personenbezogener Daten
+## 5. Dauer der Speicherung personenbezogener Daten
 
 Die Dauer der Speicherung von personenbezogenen Daten bemisst sich
 anhand der jeweiligen Rechtsgrundlage, am Verarbeitungszweck und --
